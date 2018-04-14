@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Ant Man",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/cyo_antman_20150622?$soct$",
+  },
+  {
+    "id": 2,
+    "name": "Black Panther",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/cyo_black-panther_20180102?$soct$",
+  },
+  {
+    "id": 3,
+    "name": "Black Widow",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/500x300_black_widow?$soct$",
+  },
+  {
+    "id": 4,
+    "name": "Captain America",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/m_pz_CaptainAmerica_20140421?$soct$",
+  },
+  {
+    "id": 5,
+    "name": "Doctor Strange",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/cht_ms_dr-strange_20161003?$soct$",
+  },
+  {
+    "id": 6,
+    "name": "Hawkeye",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/500x300_hawkeye?$soct$",
+  },
+  {
+    "id": 7,
+    "name": "Hulk",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/m_pz_hulk_20140421?$soct$",
+  },
+  {
+    "id": 8,
+    "name": "Iron Man",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/m_pz_IronMan_20140421?$soct$",
+  },
+  {
+    "id": 9,
+    "name": "Spiderman",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/cht_spiderman-homecoming-th_20170627?$soct$",
+  },
+  {
+    "id": 10,
+    "name": "Thor",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/m_pz_thor_20140422?$soct$",
+  },
+  {
+    "id": 11,
+    "name": "Scarlet Witch",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/sct_scarlet-witch_20160314?$soct$",
+  },
+  {
+    "id": 12,
+    "name": "Guardians of the Galaxy",
+    "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/cht_guardians-of-the-galaxy-2?$soct$",
+  }
+]
+
+
+
