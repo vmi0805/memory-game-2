@@ -14,6 +14,14 @@ class App extends Component {
     currentScore
   };
 
+const shuffle = () => {
+
+//Need to calculate and update the score
+
+// Need to shuffle the cards
+
+}
+
   render() {
     return (
         <Title topScore = "state.topScore" currentScore= "state.currentScore"/>
@@ -33,6 +41,8 @@ class App extends Component {
 // need to create a handlefriend function
 // need to compare (recall the usage of : ? - ternaries)
 // used .sort method with mathrandom + 0.5
+
+//need a setstate for the characters order (?)
 
 
     );
