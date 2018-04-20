@@ -1,0 +1,63 @@
+.container{
+	height: 136px;
+	width: 100%;
+	background-color: rgb(93,62,132);
+}
+
+.title-element-1{
+	float: left;
+/*	display: inline-block;*/
+	width: 33%;
+	height: 150px;
+}
+
+.title-element-2{
+	float: left;
+/*	display: inline-block;*/
+/*	margin-top: 4px;*/
+	width: 33%;
+	height: 150px;
+}
+
+.title-element-3{
+	float: right;
+/*	display: inline-block;*/
+	width: 33%;
+	height: 150px;
+}
+
+
+h1{
+	margin: 0 auto;
+	position: relative;
+	top: 50px;
+	color: white;
+	font-size: 30px;
+	margin-left: 20px;
+}
+
+h2{
+	margin: 0 auto;
+	position: relative;
+	top: 50px;
+	color: white;
+	font-size: 30px;
+}
+
+h3{
+	margin: 0 auto;
+	position: relative;
+	top: 10px;
+	color: white;
+	font-size: 20px;
+}
+
+h4{
+	margin: 0 auto;
+	position: relative;
+	top: 10px;
+	color: white;
+	margin-top: 6px;
+	color: white;
+	font-size: 20px;
+}

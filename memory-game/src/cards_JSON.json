@@ -3,61 +3,73 @@
     "id": 1,
     "name": "Ant Man",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/cyo_antman_20150622?$soct$",
+    "clicked": "false"
   },
   {
     "id": 2,
     "name": "Black Panther",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/cyo_black-panther_20180102?$soct$",
+    "clicked": "false"
   },
   {
     "id": 3,
     "name": "Black Widow",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/500x300_black_widow?$soct$",
+    "clicked": "false"
   },
   {
     "id": 4,
     "name": "Captain America",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/m_pz_CaptainAmerica_20140421?$soct$",
+    "clicked": "false"
   },
   {
     "id": 5,
     "name": "Doctor Strange",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/cht_ms_dr-strange_20161003?$soct$",
+    "clicked": "false"
   },
   {
     "id": 6,
     "name": "Hawkeye",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/500x300_hawkeye?$soct$",
+    "clicked": "false"
   },
   {
     "id": 7,
     "name": "Hulk",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/m_pz_hulk_20140421?$soct$",
+    "clicked": "false"
   },
   {
     "id": 8,
     "name": "Iron Man",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/m_pz_IronMan_20140421?$soct$",
+    "clicked": "false"
   },
   {
     "id": 9,
     "name": "Spiderman",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/cht_spiderman-homecoming-th_20170627?$soct$",
+    "clicked": "false"
   },
   {
     "id": 10,
     "name": "Thor",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/m_pz_thor_20140422?$soct$",
+    "clicked": "false"
   },
   {
     "id": 11,
     "name": "Scarlet Witch",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/sct_scarlet-witch_20160314?$soct$",
+    "clicked": "false"
   },
   {
     "id": 12,
     "name": "Guardians of the Galaxy",
     "image": "https://cdn-ssl.s7.shop.marvel.com/is/image/MarvelStore/cht_guardians-of-the-galaxy-2?$soct$",
+    "clicked": "false"
   }
 ]
 
